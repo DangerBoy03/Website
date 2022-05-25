@@ -1,6 +1,7 @@
 <h1>Lul</h1>
 <?php
 
-  echo "<strong>Test PHP :o</strong>";
+  $a = "Test PHP";
 
 ?>
+ <strong><?= $a ?> :o</strong>
